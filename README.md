@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Emile de Paula 
 
- `Aspirante a Desenvolvedora Back-End`
+ `Aspirante a BackEnd Developer`
 
 Me chamo Emile Cristine Carolino de Paula, tenho 20 anos sou Paraense. Atualmente faço Eng. de computação pela UNIFESSPA.
 Sou apaixonada por tecnologia e espero contribuir para um mundo mais tech. Tenho grande interesse por cyber security e desenvolvimento fullstack.
